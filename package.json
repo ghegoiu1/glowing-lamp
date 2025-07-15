@@ -1,0 +1,19 @@
+{
+  "name": "glowing-lamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"Running build...\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghegoiu1/glowing-lamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghegoiu1/glowing-lamp/issues"
+  },
+  "homepage": "https://github.com/ghegoiu1/glowing-lamp#readme"
+}
